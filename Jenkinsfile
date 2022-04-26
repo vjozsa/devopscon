@@ -8,7 +8,7 @@ pipeline {
         stage('Build') {
             steps {
                 println 'Cloning repository...'
-                git 'https://github.com/nirkoren/devopscon.git'
+                git 'https://github.com/vjozsa/devopscon.git'
                 println 'Starting the build...'
 		bat "mvn clean install -Pci"
             }
