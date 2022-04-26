@@ -11,7 +11,6 @@ In order to make it work, please do the following:
   <li>The Tomcat URL is <a href=http://localhost:8080/>http://localhost:8080/</a></li>  
   <li>The application URL is <a href=http://localhost:8080/helloworld/>http://localhost:8080/helloworld/</a></li>  
   <li>Have fun!</li>
-  <li>Hello from Italy!</li> 
 </ul>
 
  > ```xml
@@ -26,5 +25,5 @@ In order to make it work, please do the following:
 Change vjozsa
 
 The workshop PPT can be downloaded from below link: 
-https://drive.google.com/file/d/1q0PTkTGBH5Q4ODCfJSJekZJ2Js5v7Dzq/view?usp=sharing
+https://drive.google.com/file/d/1jB2ssaoYy0NsaXtnAfkrDIG2Yby1ZUP6/view?usp=sharing
 
